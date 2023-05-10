@@ -10,3 +10,14 @@ $uoc-masterbrand: #73edff;
 $uoc-bg: color.scale($uoc-masterbrand, $lightness: 70%);
 
 $mqMinWidth: 420px;
+
+$color-chess:#e9183e;
+$primary:brown;
+$theme-colors: map-merge($theme-colors,(
+ "primary": $primary,
+));
+
+$border-radius-sm:1.25rem;
+
+
+
